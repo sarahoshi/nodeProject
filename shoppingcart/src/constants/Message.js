@@ -1,0 +1,5 @@
+export const ADD_CART_SUSS = "Mua hang thanh cong"
+export const UP_CART_SUSS = "Chinh sua thanh cong"
+export const DEL_CART_SUSS = "Xoa sp thanh cong"
+export const CART_EMPTY = "Gio hang trong"
+export const MSG_WELCOME = "Welcome to go to shopping"
